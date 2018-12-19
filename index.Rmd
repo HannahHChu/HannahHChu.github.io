@@ -8,8 +8,11 @@ output:
 
 # INDEX
 
-## Rosati Lab
+## Rosati Lab - John Jay College of Criminal Justice
 [Rosati Lab General Insect Rearing](https://hannahhchu.github.io/genrearing)
 
-## Hahn Lab
+## Hahn Lab - University of Florida
 [Summer 2018 Research Notebook (SURF Program)](https://github.com/HannahHChu/Notebooks/blob/master/SURF_Notebook_2018.md)
+
+## Wang Lab - Cornell University
+[2017 Summer Research Abstract](http://HannahHChu.github.io/2017_cornell_abstract.pdf)
