@@ -11,6 +11,8 @@ output:
 ## Rosati Lab - John Jay College of Criminal Justice
 [General Insect Rearing](http://HannahHChu.github.io/2018-12-13_gen_insect_rearing.html)
 
+[Alcohol Effects Project](https://github.com/HannahHChu/HannahHChu.github.io/blob/master/alcohol_effects.html)
+
 [Forms & Template Data Sheets]()
 
 ## Hahn Lab - University of Florida
